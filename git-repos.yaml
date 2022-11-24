@@ -9,5 +9,5 @@ metadata:
     avp.kubernetes.io/path: "internal/data/git/devops"
 stringData:
   url: https://git.unity.finance/dev/infra-live.git
-  password: <path:internal/git/devops#password>
-  username: <path:internal/git/devops#username>
+  password: <path:internal/data/git/devops#password>
+  username: <path:internal/data/git/devops#username>

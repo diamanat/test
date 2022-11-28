@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Secret
 metadata:
-  name: infra-live-repo
+  name: infra-live-repo-tmp
   namespace: infra-argocd
   labels:
     argocd.argoproj.io/secret-type: repository
